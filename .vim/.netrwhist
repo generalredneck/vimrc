@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Volumes/mailcenterdev/htdocs/code/allanc/trunk'
+let g:netrw_dirhist_2='/Users/allanchappell/Media/mailcenterdev/htdocs/code/trunk'
+let g:netrw_dirhist_3='/Users/allanchappell/Media/mailcenterdev/htdocs/code'
+let g:netrw_dirhist_4='/Users/allanchappell/Media/mailcenterdev/htdocs/code/allanc/branches/p165_svApi/classes/Distribion/Event'
+let g:netrw_dirhist_5='/home/allan'
+let g:netrw_dirhist_6='/media/mailcenterdev/htdocs/dmcallanc4'
+let g:netrw_dirhist_7='/home/allan/Workspace/vagrant/public/www.allplayers.ap/tests/AllPlayers/Tests/Selenium'
